@@ -1,15 +1,32 @@
+# Precision baking
+## features
+- Upload recipes as images.
+
+- Extract text from images using OCR (Tesseract).
+
+- Store extracted recipe details in a SQLite database.
+
+- View uploaded recipes on a dedicated page.
+
+- Integrate a machine learning model for recipe categorization.
+
+
+
+
+## Installation
+
 Clone the repository to your local machine:<br>
-``git clone https://github.com/your-username/flask-recipe-upload-app.git`` <br> ``cd flask-recipe-upload-app ``
+- ``git clone https://github.com/your-username/flask-recipe-upload-app.git`` <br> - ``cd flask-recipe-upload-app ``
 
 Create and activate a virtual environment:<br>
-``python -m venv venv`` <br> ``venv\Scripts\activate``
+- ``python -m venv venv`` <br> - ``venv\Scripts\activate``
 
 Install the required Python packages:<br>
-``pip install -r requirements.txt``
+- ``pip install -r requirements.txt``
 
 
 Start the Flask development server:<br>
-``python app.py``
+- ``python app.py``
 
 The app will be available at<br> ``http://127.0.0.1:5000/``.
 
