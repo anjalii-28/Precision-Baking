@@ -16,7 +16,7 @@
 ## Installation
 
 Clone the repository to your local machine:<br>
-- ``git clone https://github.com/your-username/flask-recipe-upload-app.git`` <br> - ``cd flask-recipe-upload-app ``
+- ``git clone hhttps://github.com/anjalii-28/Precision-Baking`` <br> - ``cd flask-recipe-upload-app ``
 
 Create and activate a virtual environment:<br>
 - ``python -m venv venv`` <br> - ``venv\Scripts\activate``
